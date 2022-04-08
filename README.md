@@ -2,7 +2,7 @@
 - 👀 I’m interested in CMU 
 - 🌱 I’m currently learning how to get into CMU
 - 💞️ I’m looking to collaborate on getting into CMU
-- 📫 How to reach me plz take me in CMU. (If you're from CMU and reading this my other email is akshat.si476@gmail.com if you need it)
+- 📫 How to reach me - plz take me in CMU. (If you're from CMU and reading this my other email is akshat.si476@gmail.com if you need it)
 
 <!---
 AkshatSingh476/AkshatSingh476 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
